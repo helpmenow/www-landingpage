@@ -1,0 +1,74 @@
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('./fonts/Comfortaa.eot') format('eot'),
+         url('./fonts/Comfortaa.woff') format('woff'),
+         url('./fonts/Comfortaa.ttf') format('truetype'),
+         url('./fonts/Comfortaa.svg') format('svg');
+}
+
+body{
+    background-color: #212121;
+    font-family: "Comfortaa";
+
+    
+}
+
+mark{
+    text-decoration: none;
+    background-color: transparent;
+    color: inherit;
+}
+
+h1{
+    padding-top: 25%;
+    text-align: center;
+    color: #F5F5F5;
+    letter-spacing: -0.08em;
+}
+h2{
+    text-align: left;
+    color: #F5F5F5;
+    letter-spacing: -0.08em;
+    font-size:1em;
+}
+
+p{
+    text-align: left;
+    color: rgb(179, 179, 179);
+    font-family: "Comfortaa";
+    letter-spacing: -0.08em;
+    font-size: small;
+}
+
+.copyright{
+    
+}
+
+.helpmenow{
+    color: aqua;
+}
+
+.footer{
+    padding-top: 10%;
+    
+}
+
+#hmn_logo{
+    letter-spacing: -0.09em;
+    text-align:right;
+
+}
+
+.helpme{
+    color:#f5f5f5;
+    font-family: "Comfortaa";
+    font-size: 2em;
+    font-weight: lighter;
+}
+
+.now{
+    color: #44bd32;
+    font-family: "Comfortaa";
+    font-size: 2em;
+    font-weight: bolder;
+}
